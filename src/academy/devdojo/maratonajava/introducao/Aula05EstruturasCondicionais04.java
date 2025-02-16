@@ -3,6 +3,7 @@ package academy.devdojo.maratonajava.introducao;
 public class Aula05EstruturasCondicionais04 {
     public static void main(String[] args) {
         byte dia = 12;
+        // No switch só pode char, int, byte, short, enum, String
         switch (dia) {
             case 1:
                 System.out.println("Domingo");
