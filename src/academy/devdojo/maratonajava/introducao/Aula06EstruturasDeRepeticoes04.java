@@ -11,7 +11,11 @@ public class Aula06EstruturasDeRepeticoes04 {
                 System.out.println(parcela + ": " + valorParcela);
 
             }else {
-                break;
+                break; // ou continue
+                /*
+                continue ignora tudo que está abaixo do programa e volta ao
+                incio do for novamente. 
+                 */
             }
 
         }

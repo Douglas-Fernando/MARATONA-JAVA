@@ -8,7 +8,7 @@ public class Aula04Operadores {
         int resultado = numero2 + numero1;
         System.out.println(resultado);
 
-        // %   RESTO DA DIVISÃO
+        // %   RESTO DA DIVISÃOz
         int resto = 21 % 7;
         System.out.println(resto);
 
