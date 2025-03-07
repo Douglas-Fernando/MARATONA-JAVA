@@ -11,7 +11,7 @@ public class CarroExercicio {
         carro.modelo = "Ranger";
         carro.ano = 2025;
 
-        carro = carro1; // métodos
+        carro = carro1; // referência de objetos
 
         // carro 2
         carro1.nome = "Honda";
